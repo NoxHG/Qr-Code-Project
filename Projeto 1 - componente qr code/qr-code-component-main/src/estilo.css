@@ -1,0 +1,35 @@
+.corpo {
+    background: hsl(212, 45%, 89%);
+}
+
+.cartao {
+    background-color: hsl(0, 0%, 100%);
+    border: 20px solid white;
+    position: auto;
+    text-align: center;
+    border-radius: 15px;
+    margin: 0px 610px 0px 610px;
+
+}
+
+#foto-qr-code {
+    width: 500px;
+    height: 500px;
+}
+
+
+@import url('https://fonts.cdnfonts.com/css/tabardo');
+
+
+
+#text1 {
+    font-family: sans-serif;
+    color: hsl(218, 44%, 22%)
+}
+
+;
+
+#text2 {
+    font-family: sans-serif;
+    color: hsl(220, 15%, 55%);
+}
